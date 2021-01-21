@@ -3,7 +3,7 @@ body{
 }
 
 #title{
-    background-color: #ff4C68;
+    background-color: #222831;
     color: #fff;
 }
 
@@ -58,12 +58,12 @@ h1{
 
 .feature i{
     font-size: 3.8rem;
-    color: #ef8172;
+    color: #121013;
 }
 
 .feature i:hover{
     cursor: pointer;
-    color: #ff4c68;
+    color: #222831;
 }
 
 .feature h3{
@@ -83,7 +83,7 @@ h1{
 
 #testimonials{ 
     text-align: center;
-    background-color: #ef8172;
+    background-color: #121013;
     color: #fff;
 }
 
@@ -106,7 +106,7 @@ h2{
 
 #press{
     text-align: center;
-    background-color: #ef8172;
+    background-color: #121013;
     padding-bottom: 3%;
 }
 
@@ -130,7 +130,7 @@ h2{
 
 #cta{
     text-align: center;
-    background-color: #ff4C68;
+    background-color: #222831;
     color: #fff;
     padding: 7% 15%;
 }
